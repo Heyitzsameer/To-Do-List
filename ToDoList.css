@@ -1,0 +1,196 @@
+body
+{
+  font-family: "Times Roman";
+  background-image: url("https://media.wired.com/photos/5ebdb66a31ea8dc988a4fed3/master/pass/theme-week-ya-books-01.jpg1");
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 0;
+}
+hr
+{
+  background: linear-gradient(to right, #FF9900 0%, #FFFFFF 100%);
+}
+
+
+input
+{
+  height: 50px;
+  background: #e6fafc;
+}
+
+button
+{
+  background-color: #0493F8;
+  border-radius: 20px;
+  color: white;
+  padding: 10px 24px;
+  text-align: center;
+  font-size: 15px;
+}
+button:hover {
+  background-color: #f44336;
+  color: white;
+}
+
+img
+{
+  border-radius: 50%;
+}
+
+header
+{
+  height: 100px;
+  background: #FFFFFF;
+  padding-top: 30px;
+  font-size: 20px;
+}
+
+#name
+{
+  color: "red";
+}
+#heading
+{
+  font-size: 80px;
+  color: white;
+}
+
+#input
+{
+  font-size: 40px;
+  color: white;
+}
+
+#Task1
+{
+  font-size: 25px;
+  width: 900px;
+  height: fit-content;
+  overflow-wrap: break-word;
+  background:#e52165;
+  box-shadow: 5px 10px;
+  border-radius: 10px;
+  color: whitesmoke;
+}
+
+#Task2
+{
+  font-size: 25px;
+  width: 900px;
+  height: fit-content;
+  overflow-wrap: break-word;
+  background:#d72631;
+  border-radius: 10px;
+  color: whitesmoke;
+  box-shadow: 5px 10px;
+}
+
+#Task3
+{
+  font-size: 25px;
+  
+  width: 900px;
+  height: fit-content;
+  overflow-wrap: break-word;
+  box-shadow: 5px 10px;
+  border-radius: 10px;
+  color: whitesmoke;
+  background:#5c3c92;
+}
+
+#Task4
+{
+  font-size: 25px;
+  
+  width: 900px;
+  height: fit-content;
+  overflow-wrap: break-word;
+  box-shadow: 5px 10px;
+  border-radius: 10px;
+  color: whitesmoke;
+  background:#12a4d9 ;
+}
+
+#Task5
+{
+  font-size: 25px;
+  
+  width: 900px;
+  height: fit-content;
+  overflow-wrap: break-word;
+  box-shadow: 5px 10px;
+  background:#f3ca20;
+  border-radius: 10px;
+  color: whitesmoke;
+}
+
+#Task6
+{
+  font-size: 25px;
+  
+  width: 900px;
+  height: fit-content;
+  overflow-wrap: break-word;
+  box-shadow: 5px 10px;
+  background:#fbcbc9;
+  border-radius: 10px;
+  color: whitesmoke;
+}
+
+#Task7
+{
+  font-size: 25px;
+  
+  width: 900px;
+  height: fit-content;
+  overflow-wrap: break-word;
+  box-shadow: 5px 10px;
+  background:#6b7b8c;
+  border-radius: 10px;
+  color: whitesmoke;
+}
+
+#Task8
+{
+  font-size: 25px;
+  
+  width: 900px;
+  height: fit-content;
+  overflow-wrap: break-word;
+  box-shadow: 5px 10px;
+  background:#ecc19c;
+  border-radius: 10px;
+  color: whitesmoke;
+}
+
+#Task9
+{
+  font-size: 25px;
+  
+  width: 900px;
+  height: fit-content;
+  overflow-wrap: break-word;
+  box-shadow: 5px 10px;
+  background:#8ff567;
+  border-radius: 10px;
+  color: whitesmoke;
+}
+
+#Task10
+{
+  font-size: 25px;
+  width: 900px;
+  height: fit-content;
+  overflow-wrap: break-word;
+  box-shadow: 5px 10px;
+  background:#77c593;
+  border-radius: 10px;
+  color: whitesmoke;
+}
+
+footer
+{
+  height: 150px;
+  bottom: 0;
+  background: #000000;
+}
